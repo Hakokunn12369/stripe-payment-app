@@ -1,0 +1,16 @@
+{
+  "name": "stripe-payment-app",
+  "version": "1.0.0",
+  "description": "Stripe Payment Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Build completed'"
+  },
+  "dependencies": {
+    "stripe": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
